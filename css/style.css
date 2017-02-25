@@ -487,19 +487,18 @@ ul.portfolio-menu  li.active {
 }
 
 .map {
-    height: 500px;
+   
 }
 
 @media(max-width:768px) {
     .map {
-        height: 75%;
+        
     }
 }
 
 .map iframe {
-    pointer-events: none;
+    width: 100%
 }
-
 
 .footer {
   background: #0C0B0B;
